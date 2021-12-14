@@ -7,10 +7,10 @@
         <p>Hi, nice to meet you, I'm Henry. I build things for the web and currently working as a Back-End developer at <a class="about-link" href="https://www.cls-indo.com/" target="_blank" rel="noopener noreferrer">CLS System</a> located in Jakarta. I started doing web development since 2016 when i still was a university student building a simple digital advertising web as college assignment. I graduated from university on 2018 and have been working as a software engineer since.</p>
 
         <p>While i mainly develop Back-End application, i also have experiences in developing Front-End and Mobile application. Some tools i used as developer includes but not limited to Golang, Vue.js (Nuxt.js), and Java (Kotlin). I enjoy solving complex problems into simple codes. When i am not writing codes, i enjoy reading engineering stuffs.</p>
-        <div class="button-dl">
+        <a class="button-dl" href="https://drive.google.com/file/d/14pmXil7VM2J5I5cnb9rtGrnqBUePX1KS/view?usp=sharing" target="_blank" rel="noopener noreferrer">
           <p>My Resume</p>
           <i class="file" />
-        </div>
+        </a>
       </div>
     </div>
     <div class="what_i_do">
@@ -296,6 +296,7 @@ $font-weight: 500;
                 display: flex;
                 flex-direction: row;
                 align-items: center;
+                text-decoration: none;
 
                 transition: background-color 0.5s;
                 &:hover{

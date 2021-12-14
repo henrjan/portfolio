@@ -13,7 +13,7 @@
         <p class="description">
           A couple of months ago, I was developing services to calculate balance transaction sent from one’s user account to another’s user account and vice versa. Each transaction request is handled concurrently, thus reading and writing to databases also happens concurrently
         </p>
-        <a class="link" href="https://www.google.com" target="_blank" rel="noopener noreferrer">
+        <a class="link" href="https://henr-janitra.medium.com/multiple-lock-with-key-implementation-in-go-9e60c2e4d430" target="_blank" rel="noopener noreferrer">
           Read more
         </a>
       </div>

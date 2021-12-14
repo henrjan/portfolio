@@ -171,9 +171,11 @@ export default {
       position: fixed;
       margin: 10px 0;
       width: 50px;
-      height: 50px;
+      height: 45px;
       background-image: url("~/assets/logo.png");
-      background-size: cover;
+      background-size: 50px;
+      background-position: center;
+      background-repeat: no-repeat;
     }
 
     .bg-lg-grey {

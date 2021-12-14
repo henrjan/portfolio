@@ -8,11 +8,11 @@
           <h3>Online Marketplace Platform</h3>
           <p class="intro">Locard+ is a marketplace app that offers points as rewards to our registered members. Our main focus is to build relationships between sellers and buyers and maintain relationships between sellers and their customer. Our product categories ranging from physical  products such as home and living, fashion, electronics, etc to digital products such as digital vouchers and etc.</p>
           <div class="cta">
-            <button class="visit">
-              Go to website
-            </button>
+            <a class="visit" href="https://locard.co.id" target="_blank" rel="noopener noreferrer">
+              <p>Go to website</p>
+            </a>
             <p>or</p>
-            <button class="get-app" />
+            <a class="get-app" href="https://play.google.com/store/apps/details?id=com.clsindo.locardpluslive" target="_blank" rel="noopener noreferrer"/>
           </div>
         </div>
         <div class="locard image" />
@@ -32,9 +32,9 @@
           <h3>Management Platform for Seller</h3>
           <p class="intro">Tokolab is an online platform that offers web development service for online store, digital content makers and digital marketing services, and also offers services for virtual events and conferences. Tokolab platform also use RIM Engine technology for website contents management, members management, product management, promo management, and platform's transactions.</p>
           <div class="cta">
-            <button class="visit">
-              Go to website
-            </button>
+            <a class="visit" href="https://portal.locard.co.id/login-merchant" target="_blank" rel="noopener noreferrer">
+              <p>Go to website</p>
+            </a>
           </div>
         </div>
         <div class="locard-merchant image" />
@@ -45,7 +45,7 @@
           <h3>Redemption and Logistics System</h3>
           <p class="intro">REALS is a Redeemption and Logistics Systems that accommodating goods and digital products redeemption and logistics all the way to shipping goods to the customers. REALS provide a management portal for each clients to help with operationals and management that includes stock management, members management, shipping process, and transaction management.</p>
         </div>
-        <div class="locard image" />
+        <div class="reals image" />
       </div>
     </div>
   </div>
@@ -166,16 +166,27 @@ export default {
                 width: fit-content;
                 margin-top: 40px;
 
+                a {
+                  text-decoration: none;
+                }
                 .visit {
-                  font-size: 16px;
-                  font-weight: 700;
-                  color: white;
                   background-color: #20ADFD;
                   padding: 0;
                   margin: 0;
                   width: 160px;
                   height: 44px;
                   border: none;
+                  display: flex;
+                  align-items: center;
+                  justify-content: center;
+
+                  p {
+                    margin: 0;
+                    display: inline-block;
+                    font-size: 18px;
+                    font-weight: 700;
+                    color: white;
+                  }
 
                   // transition: all 0.4s;
                   &:hover {
@@ -251,6 +262,9 @@ export default {
               &.locard-merchant {
                 background-image: url("~/assets/porto/portal_merchant_mockup.png");
               }
+              &.reals {
+                background-image: url("~/assets/porto/reals_portal.png");
+              }
             }
         }
     }
@@ -280,9 +294,12 @@ export default {
           .cta {
             margin-top: 32px;
             .visit {
-              font-size: 14px;
               width: 136px;
               height: 36px;
+
+              p {
+                font-size: 16px;
+              }
             }
             p {
               font-size: 14px;
@@ -383,7 +400,9 @@ export default {
           .cta {
             margin-top: 20px;
             .visit {
-              font-size: 12px;
+              p {
+                font-size: 14px;
+              }
             }
             p {
               margin: 0 14px;
