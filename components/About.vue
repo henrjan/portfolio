@@ -117,12 +117,16 @@
           <h2 class="dp-desktop corp-name">PT. CLS System</h2>
           <p class="duration">Nov 2018 - Present</p>
           <ul class="job_resp">
-            <li>Building APIs for marketplace application based on given requirements and business processes.</li>
-            <li>Implementing and integrating 3rd party APIs into existing Back-End applications such as Payment Gateway APIs, Courier APIs, External Vendor APIs and etc.</li>
-            <li>Work closely with other developers to develop, tests, and deliver applications from early development stage all the way to live production stage.</li>
-            <li>Communicate with business, marketing and management teams to build matching business process with both in existing or in development stage applications.</li>
-            <li>Maintaining already in live production stage applications and databases.</li>
-            <li>Develop features in client-side as well as mobile applications when necessary.</li>
+            <li>Build performant and robust back-end application for many different clients and internal projects.</li>
+            <li>Increase speed of Back-end application development using new system architecture.</li>
+            <li>Working with multidiciplinary teams of engineers and designers to build an e-commerce and marketplace platform.</li>
+            <li>Increase e-commerce and marketplace platform's marketing efficiency using Firebase Cloud Messaging and Email API Service.</li>
+            <li>Optimize assets delivery and management such as images and documents on each projects using Cloudinary Platform.</li>
+            <li>Work closely with Devops teams to improve deployments efficiency using Docker and CI/CD Pipeline.</li>
+            <li>Providing users with more secure and diverse payment channels by integrating Payment Gateway Services on e-commerce and marketplace platform.</li>
+            <li>Integrating third party digital voucher API service thus reducing amount of dead stock and expired voucher  and providing on-demand digital voucher when necessary.</li>
+            <li>Built management platform to reduce operation teams workload and improves operational productivity.</li>
+            <li>Improve quality of code by analyzing existing architecture, refactoring legacy code and removing redundant code.</li>
           </ul>
         </div>
       </div>

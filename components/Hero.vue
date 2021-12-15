@@ -11,7 +11,7 @@
           <div class="cursor" />
         </div>
         <p class="description">
-          I am a software engineer mainly building Back-End application, and also have experiences in developing Front-End and Mobile application. Currently i am working as IT Back-End developer, focusing on building scalable and robust server-side application. I prioritize performance and speed when building applications, and writing clean and elegant codes.
+          I am software engineer dedicated to build scalable and reliable solution using Industry Best Practices. I specialise in Back-end application development for 3 years and also have experience in building Front-end as well as Mobile Application. When I am not building code, I like to read about engineering stuffs and writing some articles.
         </p>
         <div class="btn" @click="goToContact($event.target)">
           <button>Get in touch</button>
