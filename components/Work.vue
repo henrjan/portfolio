@@ -32,7 +32,7 @@
           <h3>Management Platform for Seller</h3>
           <p class="intro">Tokolab is an online platform that offers web development service for online store, digital content makers and digital marketing services, and also offers services for virtual events and conferences. Tokolab platform also use RIM Engine technology for website contents management, members management, product management, promo management, and platform's transactions.</p>
           <div class="cta">
-            <a class="visit" href="https://portal.locard.co.id/login-merchant" target="_blank" rel="noopener noreferrer">
+            <a class="visit" href="https://portal.rim.cls-indo.co.id/login-merchant" target="_blank" rel="noopener noreferrer">
               <p>Go to website</p>
             </a>
           </div>
