@@ -250,20 +250,20 @@ export default {
               background-position: center;
               background-size: 600px;
               background-repeat: no-repeat;
-              background-image: url("~/assets/porto/Locard.png");
+              background-image: url("https://res.cloudinary.com/dqjg2bpbq/image/upload/q_auto:best/v1644749743/Locard.png");
               // margin-left: 500px;
 
               &.locard {
-                background-image: url("~/assets/porto/locard_mockup.png");
+                background-image: url("https://res.cloudinary.com/dqjg2bpbq/image/upload/q_auto:best/v1644749886/locard_mockup.png");
               }
               &.rim-tech {
-                background-image: url("~/assets/porto/admin_portal_mockup.png");
+                background-image: url("https://res.cloudinary.com/dqjg2bpbq/image/upload/q_auto:best/v1644749992/admin_portal_mockup.png");
               }
               &.locard-merchant {
-                background-image: url("~/assets/porto/portal_merchant_mockup.png");
+                background-image: url("https://res.cloudinary.com/dqjg2bpbq/image/upload/q_auto:best/v1644750125/portal_merchant_mockup.png");
               }
               &.reals {
-                background-image: url("~/assets/porto/reals_portal.png");
+                background-image: url("https://res.cloudinary.com/dqjg2bpbq/image/upload/q_auto:best/v1644750210/reals_portal.png");
               }
             }
         }
