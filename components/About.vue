@@ -7,7 +7,7 @@
         <p>Hi, nice to meet you, I'm Henry. I build things for the web and currently working as a Back-End developer at <a class="about-link" href="https://www.cls-indo.com/" target="_blank" rel="noopener noreferrer">CLS System</a> located in Jakarta. I started doing web development since 2016 when i still was a university student building a simple digital advertising web as college assignment. I graduated from university on 2018 and have been working as a software engineer since.</p>
 
         <p>While i mainly develop Back-End application, i also have experiences in developing Front-End and Mobile application. Some tools i used as developer includes but not limited to Golang, Vue.js (Nuxt.js), and Java (Kotlin). I enjoy solving complex problems into simple codes. When i am not writing codes, i enjoy reading engineering stuffs.</p>
-        <a class="button-dl" href="https://drive.google.com/file/d/1XzC5v5rfaJZOQOxvOPgwjnSrPMbofzsF/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+        <a class="button-dl" href="https://drive.google.com/file/d/1FKN9kMSpnKDPWMulok_YlSYpDqp7hPV0/view?usp=sharing" target="_blank" rel="noopener noreferrer">
           <p>My Resume</p>
           <i class="file" />
         </a>
