@@ -172,7 +172,7 @@ export default {
       margin: 10px 0;
       width: 50px;
       height: 45px;
-      background-image: url("~/assets/logo.png");
+      background-image: url("https://res.cloudinary.com/dqjg2bpbq/image/upload/v1644747793/logo.png");
       background-size: 50px;
       background-position: center;
       background-repeat: no-repeat;

@@ -11,7 +11,7 @@
           <div class="cursor" />
         </div>
         <p class="description">
-          I am software engineer dedicated to build scalable and reliable solution using Industry Best Practices. I specialise in Back-end application development for 3 years and also have experience in building Front-end as well as Mobile Application. When I am not building code, I like to read about engineering stuffs and writing some articles.
+          I am software engineer dedicated to build scalable and reliable solution using Industry Best Practices. I have been doing software application development for more than 3 years mainly on Back-end and some experience in building Front-end as well as Mobile Application. I also have experience in Industrial Application Control using PLC (Programmable Logic Controller) and Microcontroller. When I am not building code, I like to read about engineering stuffs and writing some articles.
         </p>
         <div class="btn" @click="goToContact($event.target)">
           <button>Get in touch</button>
@@ -142,7 +142,7 @@ export default {
         flex-direction: row;
         align-items: center;
 
-        background-image: url("~/assets/hero/window.png");
+        background-image: url("https://res.cloudinary.com/dqjg2bpbq/image/upload/v1644745097/window.png");
         background-repeat: no-repeat;
         background-size: 600px;
         background-position: top 80px left 600px;

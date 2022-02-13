@@ -7,13 +7,13 @@
           <h4>01 <hr> LOCARD+</h4>
           <h3>Online Marketplace Platform</h3>
           <p class="intro">Locard+ is a marketplace app that offers points as rewards to our registered members. Our main focus is to build relationships between sellers and buyers and maintain relationships between sellers and their customer. Our product categories ranging from physical  products such as home and living, fashion, electronics, etc to digital products such as digital vouchers and etc.</p>
-          <div class="cta">
+          <!-- <div class="cta">
             <a class="visit" href="https://locard.co.id" target="_blank" rel="noopener noreferrer">
               <p>Go to website</p>
             </a>
             <p>or</p>
             <a class="get-app" href="https://play.google.com/store/apps/details?id=com.clsindo.locardpluslive" target="_blank" rel="noopener noreferrer"/>
-          </div>
+          </div> -->
         </div>
         <div class="locard image" />
       </div>

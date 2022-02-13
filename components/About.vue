@@ -7,7 +7,7 @@
         <p>Hi, nice to meet you, I'm Henry. I build things for the web and currently working as a Back-End developer at <a class="about-link" href="https://www.cls-indo.com/" target="_blank" rel="noopener noreferrer">CLS System</a> located in Jakarta. I started doing web development since 2016 when i still was a university student building a simple digital advertising web as college assignment. I graduated from university on 2018 and have been working as a software engineer since.</p>
 
         <p>While i mainly develop Back-End application, i also have experiences in developing Front-End and Mobile application. Some tools i used as developer includes but not limited to Golang, Vue.js (Nuxt.js), and Java (Kotlin). I enjoy solving complex problems into simple codes. When i am not writing codes, i enjoy reading engineering stuffs.</p>
-        <a class="button-dl" href="https://drive.google.com/file/d/14pmXil7VM2J5I5cnb9rtGrnqBUePX1KS/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+        <a class="button-dl" href="https://drive.google.com/file/d/1XzC5v5rfaJZOQOxvOPgwjnSrPMbofzsF/view?usp=sharing" target="_blank" rel="noopener noreferrer">
           <p>My Resume</p>
           <i class="file" />
         </a>
@@ -126,7 +126,7 @@
             <li>Providing users with more secure and diverse payment channels by integrating Payment Gateway Services on e-commerce and marketplace platform.</li>
             <li>Integrating third party digital voucher API service thus reducing amount of dead stock and expired voucher  and providing on-demand digital voucher when necessary.</li>
             <li>Built management platform to reduce operation teams workload and improves operational productivity.</li>
-            <li>Improve quality of code by analyzing existing architecture, refactoring legacy code and removing redundant code.</li>
+            <li>Improves quality of code by analyzing existing architecture, refactoring legacy code and writing unit tests.</li>
           </ul>
         </div>
       </div>
@@ -267,7 +267,7 @@ $font-weight: 500;
             width: 200px;
             height: 200px;
 
-            background-image: url("~/assets/photo.jpeg");
+            background-image: url("https://res.cloudinary.com/dqjg2bpbq/image/upload/v1644746043/photo.jpg");
             background-size: 200px;
             background-position: center;
             background-repeat: no-repeat;
